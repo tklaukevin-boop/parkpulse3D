@@ -1,0 +1,10 @@
+{
+  "name": "ParkPulse",
+  "description": "香港全城 3D 數碼即時泊車空位、路邊智能咪錶、EV 超快充節點及停車場門口排隊避坑情報系統。",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

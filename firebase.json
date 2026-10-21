@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "rewrites": [
+      {
+        "source": "**",
+        "run": {
+          "serviceId": "parkpulse",
+          "region": "asia-east1"
+        }
+      }
+    ]
+  }
+}
